@@ -1,0 +1,160 @@
+
+header {
+	background-position: fixed;
+	background-color: #004826;
+	padding: 25px 0px;
+	width: 100%;
+}
+
+
+h1 {
+	font-family: 'League Gothic', sans-serif;
+	color: white;
+}
+
+h2{
+	color: white;
+	font-family: 'League Gothic', sans-serif;
+}
+
+h3{
+	color: #081C15;
+	font-family: 'League Gothic', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+p{
+	font-family: 'League Gothic', sans-serif;
+	font-size: 30px;
+
+}
+
+a{
+	color: white;
+	font-family: 'League Gothic', sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+a:hover{
+	color: #F4A261;
+	font-size: 30px;
+	opacity: 0.5;
+}
+
+footer {
+	padding: 10px;
+	display: flex;
+	justify-content: flex-start;
+	background-size: cover;
+	background-color: #004826;
+	width: 100%;
+	align-items: flex-end;
+	margin-top: 40px;
+	background-position: fixed;
+
+}
+
+.banner-perso {
+	background-image: url("images/image-banner.jpg");
+	height: 500px;
+	background-size: cover;
+	text-align: center;
+	padding-top: 200px;
+}
+
+.headerframe{
+	font-family: 'League Gothic', sans-serif;
+	color: white;
+	font-size: 30px;
+	margin-left: 0px;
+}
+
+.text-aligned{
+	display: flex;
+	justify-content: space-around;
+	object-fit: cover;
+}
+
+.textone{
+	text-align: center;
+	color: #081C15;
+	padding: 100px;
+}
+
+.logo_mainpage{
+	color: #7ED957 ;
+}
+
+.aligned_img{
+	background-color: #004826;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 50px;
+}
+
+/* code forum cartes alignées*/
+
+.card-img-top {
+	width: 100%;
+	height: 15vw;
+	object-fit: cover;
+}
+
+.txt-darkgreenperso{
+	color: #004826;
+}
+
+.txt-blackgreenperso{
+	color: #081C15;
+}
+
+.confidence-band{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top: 150px;
+	margin-bottom: 80px;
+	margin-right: 70px;
+	padding-bottom: 70px;
+	text-align: center;
+}
+
+
+
+.txt-white{
+	color: white;
+}
+
+.picto-size{
+	font-size: 100px;
+}
+ 
+.three-cards{
+	object-position: center;
+}
+
+.team-img-size{
+	width: 60px;
+	text-align: center;
+}
+
+.container{
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 100px;
+
+}
+
+.column-one{
+	margin-right: 40px;
+}
+
+.logo-team{
+	color: #7ED957 ;
+}
+
